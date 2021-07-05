@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: #FOe8c5;
+}
+
+div{
+    margin-top: 15px;
+}
+
+.IMG-section{
+    display: flex;
+    justify-content: center;
+}
+
+.Style-section{
+   margin-right: 25px;
+    margin-left: 25px;
+    background-color: aliceblue;
+}
